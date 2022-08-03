@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\names\\Desktop\\Project working on\\traki\\src\\Domain\\Domain.csproj",
+      "projectUniqueName": "c:\\Users\\names\\Desktop\\Project working on\\traki\\src\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "C:\\Users\\names\\Desktop\\Project working on\\traki\\src\\Domain\\Domain.csproj",
+      "projectPath": "c:\\Users\\names\\Desktop\\Project working on\\traki\\src\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\names\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\names\\Desktop\\Project working on\\traki\\src\\Domain\\obj\\",
+      "outputPath": "c:\\Users\\names\\Desktop\\Project working on\\traki\\src\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\names\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

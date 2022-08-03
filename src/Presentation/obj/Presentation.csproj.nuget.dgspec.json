@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\names\\Desktop\\Project working on\\traki\\src\\Presentation\\Presentation.csproj": {}
+    "c:\\Users\\names\\Desktop\\Project working on\\traki\\src\\Presentation\\Presentation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\names\\Desktop\\Project working on\\traki\\src\\Application\\Application.csproj": {
+    "c:\\Users\\names\\Desktop\\Project working on\\traki\\src\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\names\\Desktop\\Project working on\\traki\\src\\Application\\Application.csproj",
+        "projectUniqueName": "c:\\Users\\names\\Desktop\\Project working on\\traki\\src\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\names\\Desktop\\Project working on\\traki\\src\\Application\\Application.csproj",
+        "projectPath": "c:\\Users\\names\\Desktop\\Project working on\\traki\\src\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\names\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\names\\Desktop\\Project working on\\traki\\src\\Application\\obj\\",
+        "outputPath": "c:\\Users\\names\\Desktop\\Project working on\\traki\\src\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\names\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\names\\Desktop\\Project working on\\traki\\src\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\names\\Desktop\\Project working on\\traki\\src\\Domain\\Domain.csproj"
+              "c:\\Users\\names\\Desktop\\Project working on\\traki\\src\\Domain\\Domain.csproj": {
+                "projectPath": "c:\\Users\\names\\Desktop\\Project working on\\traki\\src\\Domain\\Domain.csproj"
               }
             }
           }
@@ -43,6 +43,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -58,18 +64,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\names\\Desktop\\Project working on\\traki\\src\\Domain\\Domain.csproj": {
+    "c:\\Users\\names\\Desktop\\Project working on\\traki\\src\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\names\\Desktop\\Project working on\\traki\\src\\Domain\\Domain.csproj",
+        "projectUniqueName": "c:\\Users\\names\\Desktop\\Project working on\\traki\\src\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\names\\Desktop\\Project working on\\traki\\src\\Domain\\Domain.csproj",
+        "projectPath": "c:\\Users\\names\\Desktop\\Project working on\\traki\\src\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\names\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\names\\Desktop\\Project working on\\traki\\src\\Domain\\obj\\",
+        "outputPath": "c:\\Users\\names\\Desktop\\Project working on\\traki\\src\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\names\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -112,18 +118,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\names\\Desktop\\Project working on\\traki\\src\\Infrastructure\\Infrastructure.csproj": {
+    "c:\\Users\\names\\Desktop\\Project working on\\traki\\src\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\names\\Desktop\\Project working on\\traki\\src\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "c:\\Users\\names\\Desktop\\Project working on\\traki\\src\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\names\\Desktop\\Project working on\\traki\\src\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "c:\\Users\\names\\Desktop\\Project working on\\traki\\src\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\names\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\names\\Desktop\\Project working on\\traki\\src\\Infrastructure\\obj\\",
+        "outputPath": "c:\\Users\\names\\Desktop\\Project working on\\traki\\src\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\names\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -140,8 +146,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\names\\Desktop\\Project working on\\traki\\src\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\names\\Desktop\\Project working on\\traki\\src\\Application\\Application.csproj"
+              "c:\\Users\\names\\Desktop\\Project working on\\traki\\src\\Application\\Application.csproj": {
+                "projectPath": "c:\\Users\\names\\Desktop\\Project working on\\traki\\src\\Application\\Application.csproj"
               }
             }
           }
@@ -170,18 +176,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\names\\Desktop\\Project working on\\traki\\src\\Presentation\\Presentation.csproj": {
+    "c:\\Users\\names\\Desktop\\Project working on\\traki\\src\\Presentation\\Presentation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\names\\Desktop\\Project working on\\traki\\src\\Presentation\\Presentation.csproj",
+        "projectUniqueName": "c:\\Users\\names\\Desktop\\Project working on\\traki\\src\\Presentation\\Presentation.csproj",
         "projectName": "Presentation",
-        "projectPath": "C:\\Users\\names\\Desktop\\Project working on\\traki\\src\\Presentation\\Presentation.csproj",
+        "projectPath": "c:\\Users\\names\\Desktop\\Project working on\\traki\\src\\Presentation\\Presentation.csproj",
         "packagesPath": "C:\\Users\\names\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\names\\Desktop\\Project working on\\traki\\src\\Presentation\\obj\\",
+        "outputPath": "c:\\Users\\names\\Desktop\\Project working on\\traki\\src\\Presentation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\names\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -198,11 +204,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\names\\Desktop\\Project working on\\traki\\src\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\names\\Desktop\\Project working on\\traki\\src\\Application\\Application.csproj"
+              "c:\\Users\\names\\Desktop\\Project working on\\traki\\src\\Application\\Application.csproj": {
+                "projectPath": "c:\\Users\\names\\Desktop\\Project working on\\traki\\src\\Application\\Application.csproj"
               },
-              "C:\\Users\\names\\Desktop\\Project working on\\traki\\src\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\names\\Desktop\\Project working on\\traki\\src\\Infrastructure\\Infrastructure.csproj"
+              "c:\\Users\\names\\Desktop\\Project working on\\traki\\src\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "c:\\Users\\names\\Desktop\\Project working on\\traki\\src\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -240,7 +246,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
